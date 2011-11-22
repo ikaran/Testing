@@ -1,0 +1,60 @@
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+Put-your-group-name-here's system version 0 (ASST3 #18)
+
+Cpu is MIPS r2000/r3000
+1024k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+OS/161 kernel: p newtests/vm-stack1
+SUCCEEDED
+Shutting down.
+The system is halted.
+-----------
+
+OS/161 base system version 1.11
+Copyright (c) 2000, 2001, 2002, 2003
+   President and Fellows of Harvard College.  All rights reserved.
+
+Put-your-group-name-here's system version 0 (ASST3 #18)
+
+Cpu is MIPS r2000/r3000
+1024k physical memory available
+Device probe...
+lamebus0 (system main bus)
+emu0 at lamebus0
+ltrace0 at lamebus0
+ltimer0 at lamebus0
+hardclock on ltimer0 (100 hz)
+beep0 at ltimer0
+rtclock0 at ltimer0
+lrandom0 at lamebus0
+random0 at lrandom0
+lhd0 at lamebus0
+lhd1 at lamebus0
+lser0 at lamebus0
+con0 at lser0
+pseudorand0 (virtual)
+
+OS/161 kernel: p newtests/vm-stack2
+SUCCEEDED
+Shutting down.
+The system is halted.
+-----------
